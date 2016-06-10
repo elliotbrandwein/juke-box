@@ -1,0 +1,15 @@
+body{
+	background-color: lightblue;
+}
+h3{
+	text-align: center;
+}
+#song-player
+{
+	padding-left: 43%;
+	align-self: center;
+}
+#details
+{
+	text-align: center;
+}
